@@ -1,0 +1,2 @@
+android.app.Application
+SteelThreadsProject_aldrich.SteelThreadsProject_aldrich
